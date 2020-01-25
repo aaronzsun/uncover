@@ -1,4 +1,6 @@
 # uncover
 Front-end for Uncover webpage: a platform for the up and coming
 
-Uncover is a digital magazine focused on providing a platform for up and coming music, people, food, fashion, and tech.
+<b> What is uncover? </b>
+
+Uncover is a digital magazine focused on revealing up and coming trends in society. Each week, Uncover showcases various featured songs, artists, foods, etc.
